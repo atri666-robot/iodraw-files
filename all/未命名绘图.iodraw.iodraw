@@ -10,8 +10,8 @@
         <mxCell id="SQb6c1Vwlcjr2Sp7W3Pc-4" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;C57BL/6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="80" y="710" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SQb6c1Vwlcjr2Sp7W3Pc-5" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Cebpa&lt;/i&gt;&lt;sup&gt;fl/w&lt;/sup&gt;&lt;i&gt;t&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="250" y="710" width="80" height="30" as="geometry" />
+        <mxCell id="SQb6c1Vwlcjr2Sp7W3Pc-5" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Cebpa&lt;/i&gt;&lt;sup&gt;fl/wt&lt;/sup&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="700" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
