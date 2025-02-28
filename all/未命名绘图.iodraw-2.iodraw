@@ -1,1 +1,13 @@
-<mxfile host="www.iodraw.com" modified="2025-02-15T11:57:16.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" etag="dgWQCQUeuCD0fRXrDSzU" version="13.3.6" type="device"><diagram id="zIEsp1EWqM4THhXRkfMw" name="第 1 页">7VRdb5swFP01Vp+ogp3Q8kgYzR66qlqY9mwFA5ZsTBynQH79rsGBWFml9X084OtzP33AB5FU9jtN2/qHKphAeFX0iHxDGIfrdQiLRYYJiTbxBFSaFy5oAfb8why4cuiZF+zkBRqlhOGtDx5U07CD8TCqter8sFIJv2tLK3YH7A9U3KO/eWFqh0ab9eL4znhVu9aYkGjySHqNdkc51bRQ3Q1EMkRSrZSZLNmnTFj2rsRMeS+feOfJNGvMvyS8B8fycvn5JOJ2KI/mspWvWeCqfFBxdidGOBJQb9tqZoc2g6MiOp7tpFvDehNQwasGkcQyD+2ZXvxgVW4d65xa2kCYoE3l1cnegl/727S/9CpVY4LT+FPYVvHjpjWwTuGjs6SSi2FyQx6VLTivk3IJvw5eNayDt1bSDuKHjFmp7c00L+8P8ar6d/CGU4PNQ5DkSZLmebrLwQre3BPYXbpLkl0OVkAeroeHrzGd3+cE4JFeH/3P+MI4/iLjKMPoeYXi+IvMY48FbKkGvKu5YfuWHizcgbIBVhspYBfOaR9MQ/inlzGcrziII1OSGT1AiEsgT04VnC7OgtctKjPH1DcC8+ww6oStmksvVx8Md/uv20VlRt+NWJPsDw==</diagram></mxfile>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
+  <diagram id="zIEsp1EWqM4THhXRkfMw" name="第 1 页">
+    <mxGraphModel dx="1213" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P-qfzzR7l9pyfqtzBmLE-1" value="&lt;pre style=&quot;text-align: center&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 9.5pt ; font-family: &amp;quot;times new roman&amp;quot; , serif&quot;&gt;LoxP 1: 5&#39;-ATAACTTCGTATA-NNNNNNNN-TATACGAAGTTAT-3&#39;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;text-align: center&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 9.5pt ; font-family: &amp;quot;times new roman&amp;quot; , serif&quot;&gt;LoxP 2: 5&#39;-ATAACTTCGTATA-NNNNNNNN-TATACGAAGTTAT-3’&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="210" width="370" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
